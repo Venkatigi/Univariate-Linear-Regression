@@ -45,6 +45,6 @@ print("Venkatesh E")
 print("21003352")
 ```
 ## Sample Input and Output
-![inp](capture.PNG)
+![inp](1.jpg)
 ## Result
 Thus the univariate Linear Regression was implemented successfully.
